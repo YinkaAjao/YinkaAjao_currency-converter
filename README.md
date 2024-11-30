@@ -2,7 +2,7 @@
 Project Title
 Currency Converter Application
 
-Description
+Description:
 This project is a user-friendly currency converter application that fetches live exchange rates using the ExchangeRate API. Users can select their respective currency codes, input amounts, and convert currencies dynamically.
 
 Deployment and Load Balancer Configuration
